@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45116" started-at="2018-09-23T15:46:53Z" finished-at="2018-09-23T15:47:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45116" started-at="2018-09-23T15:46:53Z" finished-at="2018-09-23T15:47:38Z">
+      <class name="test.AddContactTest">
+        <test-method status="PASS" signature="AddContact()[pri:0, instance:test.AddContactTest@68e5eea7]" name="AddContact" duration-ms="44938" started-at="2018-09-23T11:46:53Z" finished-at="2018-09-23T11:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddContact -->
+      </class> <!-- test.AddContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
